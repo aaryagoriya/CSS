@@ -74,7 +74,7 @@ Contributions are welcome! To add examples, fix issues, or improve structure:
 2.	Create a new branch
 3.	Submit a pull request
 License
-This project is licensed under the MIT License.
+This project is licensed under the No License.
 Acknowledgements
 This repository is inspired by the idea of hands-on learning. Special thanks to the open-source CSS community for its ongoing contributions and knowledge sharing.
 Author
