@@ -1,0 +1,6 @@
+/* Universal selector (*) is used to target all the elements in a page. */
+
+*{
+    margin: 0;
+    padding: 0;
+}
