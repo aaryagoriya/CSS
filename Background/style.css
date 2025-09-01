@@ -7,3 +7,7 @@ background-size	Specifies the size of the background image (e.g., cover, contain
 background-attachment	Sets whether a background image scrolls with the page (scroll) or is fixed (fixed).
 background-origin	Specifies the positioning area of the background image (e.g., padding-box, border-box, content-box).
 background-clip */
+
+h1{
+    background-color: aqua;
+}
