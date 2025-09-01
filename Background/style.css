@@ -1,0 +1,9 @@
+/* 
+background-color	
+background-image	Sets one or more background images.
+background-repeat	Defines how background images are repeated (e.g., repeat, no-repeat, repeat-x, repeat-y).
+background-position	Sets the starting position of a background image (e.g., top left, center center, 10px 20px).
+background-size	Specifies the size of the background image (e.g., cover, contain, 100px 200px).
+background-attachment	Sets whether a background image scrolls with the page (scroll) or is fixed (fixed).
+background-origin	Specifies the positioning area of the background image (e.g., padding-box, border-box, content-box).
+background-clip */
