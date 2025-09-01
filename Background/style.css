@@ -14,4 +14,7 @@ h1{
 
 div{
     background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fimage&psig=AOvVaw3UrlTgEULWOHfgS20H3MOw&ust=1756797112286000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiDsLSBt48DFQAAAAAdAAAAABAE);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
